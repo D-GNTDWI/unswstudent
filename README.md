@@ -28,3 +28,4 @@ List of books that I began to read.
 
     ISBN-13:978-1980901754 The Hacker Playbook 3 by Peter Kim
     ISBN 978-1-78216-318-3 Mastering Wireless Penetration Testing for Highly Secured Environments by Aaron Johns
+    ISBN 978-1-84969-510-7 Penetration Testing with the Bash shell by Keith Makan
