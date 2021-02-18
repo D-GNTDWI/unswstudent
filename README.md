@@ -1,5 +1,5 @@
 # unswstudent
-Cyber Security coursework at UNSW 
+Class Cyber Security coursework at UNSW 
 
 //18 Feb 2021
     
