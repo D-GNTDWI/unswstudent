@@ -23,4 +23,6 @@ Cyber Security coursework at UNSW
     
     //Once installed and running, I first queried my own IP address with "ip add' in the Kali terminal. Then opened Windows' Remote Desktop Connection, entered the IP address and    the GUI appeared."
 
-
+# Books
+List of books that I began to read
+ISBN-13:978-1980901754 The Hacker Playbook 3 by Peter Kim
