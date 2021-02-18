@@ -29,3 +29,17 @@ List of books that I began to read.
     ISBN-13:978-1980901754 The Hacker Playbook 3 by Peter Kim
     ISBN 978-1-78216-318-3 Mastering Wireless Penetration Testing for Highly Secured Environments by Aaron Johns
     ISBN 978-1-84969-510-7 Penetration Testing with the Bash shell by Keith Makan
+    ISBN 978-1-78216-678-8 Metasploit Penetration Testing Cookbook by Monika Agarwal and Abhinav Singh
+    ISBN 978-0-12-411644-3 The Basics of Hacking and Penetration Testing Second Edition by Patrick Engebretson
+    ISBN 978-1-849513-94-4 BackTrack 4: Assuring Security by Penetration Testing by Shakeel Ali and Tedi Heriyanto
+    ISBN 978-1-78328-041-4 Kali Linux Wireless Penetration Testing Beginner's Guide by Vivek Ramachandran and Cameron Buchanan
+    ISBN 978-1-78216-316-9 Web Penetration Testing with Kali Linux by Joseph Muniz and Aamir Lakhani
+    ISBN 978-1-78398-852-5 Web Penetration Testing with Kali Linux Second Edition by Juned Ahmed Ansari
+    ISBN 978-1-78216-274-2 Linux Shell Scripting Cookbook Second Edition by Shantanu Tushar and Sarath Lakshman
+    ISBN 978-1-78528-556-1 Mastering Kali Linux Wireless Pentesting by Brian Sak and Jilumudi Raghu Ram
+    ISBN 978-1-78439-643-5 Penetration Testing with Raspberry Pi by Aamir Lakhani and Joseph Muniz
+    ISBN 978-1-449-34421-4 Getting Started with Raspberry Pi by Matt Richardson and Shawn Wallace
+    ISBN 978-1-78398-214-1 Kali Linux Network Scanning Cookbook by Justin Hutchens
+    ISBN 978-1-78328-959-2 Kali Linux Cookbook by Willie L. Pritchett and David De Smet
+    ISBN 978-1-78216-312-1 Mastering Kali Linux for Advanced Penetration Testing by Robert W. Beggs
+    ISBN 978-1-84969-566-4 Instant Kali Linux by Abhinav Singh
