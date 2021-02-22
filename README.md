@@ -22,6 +22,8 @@
     //Upon installing, I had to reboot and enter the BIOS to enable SVM mode for virtualisation with an AMD processor.
     
     //Once installed and running, I first queried my own IP address with "ip add' in the Kali terminal. Then opened Windows' Remote Desktop Connection, entered the IP address and the GUI appeared.
+    
+    //TIP: sudo service xrdp start ; ip add ; "OpenRDC"
 
 # Books
 //List of books that I began to read.
