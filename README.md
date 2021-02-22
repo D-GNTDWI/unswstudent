@@ -5,7 +5,7 @@
     
     //18 days before my first course ZZEN9201 starts.
     
-    //I will be using 'DinelliTech' for anonymity. I am studying Cyber Security at UNSW and the repository is my diary.
+    //I will be using 'DGNTDWI' for anonymity. I am studying Cyber Security at UNSW and the repository is my diary.
 
     //I trust this content may be of use to others. Please consider that your actions affect others for better or worse. Support each other with compassion and kindness.
     
