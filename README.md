@@ -1,5 +1,5 @@
 # unswstudent
-Class Cyber Security coursework at UNSW 
+//Beginning Cyber Security coursework at UNSW 
 
 //18 Feb 2021
     
@@ -24,7 +24,7 @@ Class Cyber Security coursework at UNSW
     //Once installed and running, I first queried my own IP address with "ip add' in the Kali terminal. Then opened Windows' Remote Desktop Connection, entered the IP address and the GUI appeared.
 
 # Books
-List of books that I began to read.
+//List of books that I began to read.
 
     ISBN-13:978-1980901754 The Hacker Playbook 3 by Peter Kim
     ISBN 978-1-78216-318-3 Mastering Wireless Penetration Testing for Highly Secured Environments by Aaron Johns
