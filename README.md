@@ -43,3 +43,8 @@
     ISBN 978-1-78328-959-2 Kali Linux Cookbook by Willie L. Pritchett and David De Smet
     ISBN 978-1-78216-312-1 Mastering Kali Linux for Advanced Penetration Testing by Robert W. Beggs
     ISBN 978-1-84969-566-4 Instant Kali Linux by Abhinav Singh
+    
+# Links
+
+    https://pentesterlab.com/
+    https://www.hackthebox.eu/
