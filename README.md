@@ -53,19 +53,19 @@
     https://tryhackme.com/
     
 # Week 0
-//Setup VirtualBox 6.1 by viewing https://www.virtualbox.org/wiki/Downloads chose OS and accepted all prompts. Also have to install the VB Extension Pack, however my system downloaded the .gz file. Change the .gz to .vbox-extpack and VB will install the pack.
-//Created a 4gb memory, 10gb storage, VDI with 2 cores and installed Kali Linux OS.
+    //Setup VirtualBox 6.1 by viewing https://www.virtualbox.org/wiki/Downloads chose OS and accepted all prompts. Also have to install the VB Extension Pack, however my system downloaded the .gz file. Change the .gz to .vbox-extpack and VB will install the pack.
+    //Created a 4gb memory, 10gb storage, VDI with 2 cores and installed Kali Linux OS.
 
-//With the support of Bombal, I have tinkered around with Wifite below. Note this doesn't work with WSL2 (due to network adapter access).
-//$ sudo wifite
-//"Error: airmon-ng did not find any wireless interfaces" etc
-//$ sudo apt update
-//$ sudo apt install hcxdumptool 
-//$ sudo apt-get install libpcap-dev
-//$ sudo apt-get install python2.7-dev libssl-dev zlib1g-dev libpcap-dev
-//$ git clone https://github.com/JPaulMora/Pyrit.git
-//$ cd Pyrit
-//$ sudo python setup.py clean
-//$ sudo python setup.py build
-//$ sudo python setup.py install
-//$ clear
+    //With the support of Bombal, I have tinkered around with Wifite below. Note this doesn't work with WSL2 (due to network adapter access).
+    //$ sudo wifite
+    //"Error: airmon-ng did not find any wireless interfaces" etc
+    //$ sudo apt update
+    //$ sudo apt install hcxdumptool 
+    //$ sudo apt-get install libpcap-dev
+    //$ sudo apt-get install python2.7-dev libssl-dev zlib1g-dev libpcap-dev
+    //$ git clone https://github.com/JPaulMora/Pyrit.git
+    //$ cd Pyrit
+    //$ sudo python setup.py clean
+    //$ sudo python setup.py build
+    //$ sudo python setup.py install
+    //$ clear
