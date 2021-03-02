@@ -53,10 +53,13 @@
     https://tryhackme.com/
     
 # Week 0
-    //Setup VirtualBox 6.1 by viewing https://www.virtualbox.org/wiki/Downloads chose OS and accepted all prompts. Also have to install the VB Extension Pack, however my system downloaded the .gz file. Change the .gz to .vbox-extpack and VB will install the pack.
+    //Setup VirtualBox 6.1 by viewing https://www.virtualbox.org/wiki/Downloads 
+    //Also have to install the VB Extension Pack, however my system downloaded the .gz file. 
+    //Change the .gz to .vbox-extpack and VB will install the pack.
     //Created a 4gb memory, 10gb storage, VDI with 2 cores and installed Kali Linux OS.
 
-    //With the support of Bombal, I have tinkered around with Wifite below. Note this doesn't work with WSL2 (due to network adapter access).
+    //With the support of Bombal, I have tinkered around with Wifite below. 
+    //Note this doesn't work with WSL2 (due to network adapter access).
     //$ sudo wifite
     //"Error: airmon-ng did not find any wireless interfaces" etc
     //$ sudo apt update
