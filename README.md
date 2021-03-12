@@ -1,11 +1,11 @@
 #
-//Beginning Cyber Security 
+//Cyber Security 
 
 //18 Feb 2021
           
     //I will be using 'DGNTDWI' for anonymity and the repository is my diary.
     
-    //Today, I have installed Kali Linux through the Windows Subsystem for Linux 2. 
+    //Installed Kali Linux through the Windows Subsystem for Linux 2. 
     //Upon my first install error, I entered into the terminal, "sudo apt-get install dbus-x11" to continue with the installation.
     //Upon installing, I had to reboot and enter the BIOS to enable SVM mode for virtualisation with an AMD processor.
     //Once Kali was running, I first queried my own IP address with "$ ip add" in the Kali terminal. 
