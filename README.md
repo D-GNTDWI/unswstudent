@@ -1,29 +1,17 @@
-# unswstudent
-//Beginning Cyber Security coursework at UNSW 
+#
+//Beginning Cyber Security 
 
 //18 Feb 2021
+          
+    //I will be using 'DGNTDWI' for anonymity and the repository is my diary.
     
-    //18 days before my first course ZZEN9201 starts.
-    
-    //I will be using 'DGNTDWI' for anonymity. I am studying Cyber Security at UNSW and the repository is my diary.
-
-    //I trust this content may be of use to others. Please consider that your actions affect others for better or worse. Support each other with compassion and kindness.
-    
-    //I will endeavour to ensure transparency and imbue tidbits of my own thoughts into my repository as I trudge through the challenging coursework. My mistakes are your stepping stones.
-
-//##Foundations of Cyber Security	ZZEN9201##
-
-//Prestudy
-    
-    //I have given thought to documenting my experience in this coursework. I am commencing with no experience in the field, rather, a subtle aptitute for technology.
-    
-    //Today, I have installed Kali Linux through the Windows Subsystem for Linux 2. Upon my first install error, I entered into the terminal, "sudo apt-get install dbus-x11" to continue with the installation.
-    
+    //Today, I have installed Kali Linux through the Windows Subsystem for Linux 2. 
+    //Upon my first install error, I entered into the terminal, "sudo apt-get install dbus-x11" to continue with the installation.
     //Upon installing, I had to reboot and enter the BIOS to enable SVM mode for virtualisation with an AMD processor.
+    //Once Kali was running, I first queried my own IP address with "$ ip add" in the Kali terminal. 
+    //Then opened Windows' Remote Desktop Connection, entered the IP address and the GUI appeared.
     
-    //Once installed and running, I first queried my own IP address with "ip add' in the Kali terminal. Then opened Windows' Remote Desktop Connection, entered the IP address and the GUI appeared.
-    
-    //TIP: sudo service xrdp start ; ip add ; "OpenRDC"
+    //TIP: Open Kali, then $ sudo service xrdp start ; $ ip add ; "OpenRemoteDesktopConnection"
 
 # Books
 //List of books that I began to read.
@@ -46,14 +34,14 @@
     ISBN 978-1-78216-312-1 Mastering Kali Linux for Advanced Penetration Testing by Robert W. Beggs
     ISBN 978-1-84969-566-4 Instant Kali Linux by Abhinav Singh
     
-# Links
+# Links subscribed
 
     https://pentesterlab.com/
     https://www.hackthebox.eu/
     https://tryhackme.com/
     
-# Week 0
-    //Setup VirtualBox 6.1 by viewing https://www.virtualbox.org/wiki/Downloads 
+# 6 March
+    //Setup of VirtualBox 6.1 by viewing https://www.virtualbox.org/wiki/Downloads 
     //Also have to install the VB Extension Pack, however my system downloaded the .gz file. 
     //Change the .gz to .vbox-extpack and VB will install the pack.
     //Created a 4gb memory, 10gb storage, VDI with 2 cores and installed Kali Linux OS.
@@ -61,7 +49,7 @@
     //With the support of Bombal, I have tinkered around with Wifite below. 
     //Note this doesn't work with WSL2 (due to network adapter access).
     //$ sudo wifite
-    //"Error: airmon-ng did not find any wireless interfaces" etc
+    //Encountered "Error: airmon-ng did not find any wireless interfaces" etc
     //$ sudo apt update
     //$ sudo apt install hcxdumptool 
     //$ sudo apt-get install libpcap-dev
@@ -72,3 +60,13 @@
     //$ sudo python setup.py build
     //$ sudo python setup.py install
     //$ clear
+    
+# 13 March
+
+    //I received a high unusual phone call so I attempted recon techniques through the PhoneInfoga toolset.
+    //curl -L "https://github.com/sundowndev/phoneinfoga/releases/download/v2.0.8/phoneinfoga_$(uname -s)_$(uname -m).tar.gz" -o phoneinfoga.tar.gz
+    //tar xfv phoneinfoga.tar.gz
+    //./phoneinfoga version
+    //./phoneinfoga --help
+    //./phoneinfoga scan -n "6104MobileNumber" 
+    
